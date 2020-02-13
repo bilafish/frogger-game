@@ -22,6 +22,6 @@ The game is implemented using vanilla Javascript and Canvas (HTML5).
 To setup the app for development on your local machine, please follow the instructions below:
 1. Clone the repo to your machine
 ```
-git clone https://github.com/bilafish/carpark-finder.git
+git clone https://github.com/bilafish/frogger-game.git
 ```
 2. Edit the Javascript code in folder [js](./js/)
