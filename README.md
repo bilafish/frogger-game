@@ -2,7 +2,7 @@
 This is a arcade game based on the classic game, Frogger.
 The game is implemented using vanilla Javascript and Canvas (HTML5).
 
-![Game Screenshot](./screenshots/Screen-1.png)
+<img src="./screenshots/Screen-1.png" alt="Game Screenshot" width="300px" height="300px">
 
 ## Table of Contents
 
